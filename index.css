@@ -1,6 +1,6 @@
 :root {
   --bg-color: rgb(40, 40, 40);
-  --text-color1: rgb(255, 255, 255);
+  --text-color1: rgb(150, 150, 150);
   --typewriterSpeed: 2s;
   --typewriterCharacters: 28;
   --delay-before-start: 200ms;
