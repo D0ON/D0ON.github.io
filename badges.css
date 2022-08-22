@@ -1,0 +1,29 @@
+:root {
+    --bg-color: rgb(40, 40, 40);
+    --text-color1: rgb(150, 150, 150);
+  }
+  
+  body {
+    font-family: "Roboto Mono Medium", monospace;
+    min-height: 100vh;
+    place-content: left;
+    text-align: left;
+    background: var(--bg-color);
+  }
+  
+  h1 {
+    font-size: clamp(1rem, 3vw + 1rem, 4rem);
+    color: var(--text-color1);
+    position: relative;
+    font-family: "Roboto Mono Medium", monospace;
+    position: relative;
+    width: max-content;
+  }
+
+  p {
+    color: var(--text-color1);
+    position: relative;
+    font-family: "Roboto Mono Medium", monospace;
+    position: relative;
+    width: max-content;
+  }
